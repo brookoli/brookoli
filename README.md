@@ -6,6 +6,7 @@ My name is Olga
 I enjoy __*safe*__ software & backend development
 
 - *Novosibirsk, Russia* 📍
+- Bachelor of Physics (Novosibirsk State University) 🎓 
 
 ## Skills
 
