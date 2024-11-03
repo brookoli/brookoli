@@ -3,20 +3,22 @@
 
 My name is Olga
 
-I enjoy __*safe*__ software & backend development
+I enjoy __*safe*__ software engineering
 
-- Bachelor of Physics (Novosibirsk State University) 🎓 
+- Bachelor of Physics (Novosibirsk State University) - Master Degree in progress - 🎓 
 
 - *Novosibirsk, Russia* 📍
 
 ## Skills
 
-- C/C++, Python
-- Qt, Django, CV, RPA
+- C/C++17, Python, Rust
+- CAD dev (OCCT, ParaSolid), Computational Math
+- STL, Boost, Qt / Django, CV, RPA
 
 ### 🌱 I’m currently learning
-- Rust (🤞)
-- C++ (Software development)
+- Async Rust (🤞)
+- C++ (it never ends)
+- ML
 
 ## How to reach me
 - [Telegram](https://t.me/Brookoli)
